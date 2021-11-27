@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @josegabjimenez
 - 👀 I’m interested in software development
-- 🌱 I’m currently learning backend and frontend (Node.js and React.js) and studying Systems Engineering at Universidad Del Valle (Colombia)
+- 🌱 I’m currently learning about backend and frontend (Node.js and React.js) and studying Systems Engineering at Universidad Del Valle (Colombia)
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: josegabojimenez@gmail.com
 
