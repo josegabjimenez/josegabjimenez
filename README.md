@@ -2,7 +2,10 @@
 - 👀 I’m interested in software development
 - 🌱 I’m currently learning about backend and frontend (Node.js and React.js) and studying Systems Engineering at Universidad Del Valle (Colombia)
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: josegabojimenez@gmail.com
+
+### How to reach me: 
+- 💌 Email: josegabojimenez@gmail.com
+- 💙 Linkedin: [josegabojimenez](https://www.linkedin.com/in/jose-gabriel-jim%C3%A9nez-vidales-1b0179215/)
 
 <!---
 josegabjimenez/josegabjimenez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
