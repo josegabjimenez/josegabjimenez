@@ -8,7 +8,7 @@ Frontend Developer
 * 🖥️  See my portfolio at [My Portfolio](http://josegabjimenez.vercel.app/)
 * ✉️  You can contact me at [josegabojimenez@gmail.com](mailto:josegabojimenez@gmail.com)
 * 🚀  I'm currently working on [personal projects](http://https://github.com/josegabjimenez/portfolio)
-* 🧠  I'm learning all about web development with JavaScript and studying Systems Engineering at Universidad Del Valle (Colombia)
+* 🧠  I'm learning all about software development and studying Systems Engineering at Universidad Del Valle (Colombia)
 * 🤝  I'm open to collaborating on web apps building processes
 
 ### Skills
