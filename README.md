@@ -1,14 +1,14 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Jose Gabriel Jiménez
 ============================================================================================================================================
 
-Frontend Developer
+Full-Stack Developer
 ------------------
 
 * 🌍  I'm based in Cali, Colombia
-* 🖥️  See my portfolio at [My Portfolio](http://josegabjimenez.vercel.app/)
+* 🖥️  See my portfolio at [My Portfolio](http://josegabjimenez.dev/)
 * ✉️  You can contact me at [josegabojimenez@gmail.com](mailto:josegabojimenez@gmail.com)
-* 🚀  I'm currently working on [personal projects](http://https://github.com/josegabjimenez/portfolio)
-* 🧠  I'm learning all about software development and studying Systems Engineering at Universidad Del Valle (Colombia)
+* 🚀  I'm currently working on [personal projects](https://www.josegabjimenez.dev/portfolio)
+* 🧠  I'm learning all about Software Development, Artificial Intelligence and studying Systems Engineering at Universidad Del Valle (Colombia)
 * 🤝  I'm open to collaborating on web apps building processes
 
 ### Skills
